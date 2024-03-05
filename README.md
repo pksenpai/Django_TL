@@ -1,2 +1,2 @@
-# Django_TL
-Test &amp; Learn Django in Python.
+<h3>Django(Python/Web)</h3>
+This is a personal repository for self study by Test & Learn (TL) ...
